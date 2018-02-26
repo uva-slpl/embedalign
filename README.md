@@ -14,7 +14,7 @@ noisy sense annotation).
 
         pip install --upgrade https://storage.googleapis.com/tensorflow/linux/gpu/tensorflow_gpu-1.4.0rc1-cp35-cp35m-linux_x86_64.whl
 
-* dgm4nlp
+* [dgm4nlp](https://github.com/uva-slpl/dgm4nlp) tag `embedalign.naacl2018.submission`
 
 # Example
 
